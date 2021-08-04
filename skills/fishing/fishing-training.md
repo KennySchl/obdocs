@@ -3,12 +3,15 @@
 ## Fastest route to 99:
 
 Shrimp 1-5  
-Herring 5-20 \(requires fishing bait\)  
+Sardine 5-10 \(requires fishing bait\)  
+Herring 10-20 \(requires fishing bait\)  
 OPTIONAL: Fishing Trawler until Angler \(equip set for 2.5% xp boost\)  
 Trout 20-30 \(requires feathers\)  
 Salmon 30-58 \(requires feathers\)  
-OPTIONAL: Aerial Fishing \(reqs minimum 35 hunter\) until Barb Rod \(equip for 5% catch boost\)  
+OPTIONAL: Aerial Fishing \(reqs minimum 35 hunter\) until Pearl barbarian rod \(equip for 5% catch boost\)  
 Barb Fishing 58-99 \(requires feathers\)
+
+Tempoross is a good option instead of Barbarian Fishing once you have a crystal harpoon from Zalcano. Requires 35 fishing.
 
 ### Additional Information:
 

@@ -1,6 +1,328 @@
+---
+description: All boosts and Requirements for bosses.
+---
+
 # Boosts & Requirements
 
+You can check the boosts for a specific boss and by how much by using the `+monster NameOfBoss` command. Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
+### Global Boosts
+
+![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: Reduces food usage by 17.6% when equipped in the gear setup being used.
+
+![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
+
+Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
+
+#### God Wars Dungeon
+
+{% tabs %}
+{% tab title="General Graardor" %}
+**Requirements**  
+43 Prayer  
+70 Strength  
+75 Quest Points  
+  
+**Boosts**  
+5% for Bandos Godsword OR 10% for Dragon Warhammer
+{% endtab %}
+
+{% tab title="Commander Zilyana" %}
+**Requirements**  
+43 Prayer  
+70 Agility  
+75 Quest Points  
+Karil's Leathertop OR Armadyl Chestplate  
+Karil's Leatherskirt OR Armadyl Chainskirt  
+  
+**Boosts**  
+3% for Ranger Boots OR 5% for Pegasian Boots  
+3% for Armadyl Crossbow OR 10% for Twisted Bow
+{% endtab %}
+
+{% tab title="Kree\'arra" %}
+**Requirements**  
+43 Prayer  
+70 Ranged  
+75 Quest Points  
+Karil's Leathertop OR Armadyl Chestplate  
+Karil's Leatherskirt OR Armadyl Chainskirt  
+  
+**Boosts**  
+5% for Armadyl Crossbow OR 10% for Twisted Bow
+{% endtab %}
+
+{% tab title="K\'ril Tsutsaroth" %}
+**Requirements**  
+43 Prayer  
+70 Hitpoints  
+75 Quest Points  
+Karil's Leathertop OR Armadyl Chestplate  
+Karil's Leatherskirt OR Armadyl Chainskirt  
+  
+**Boosts**  
+3% for Dragon Claws OR 5% for Bandos Godsword OR 10% for Dragon Warhammer  
+9% for Arclight
+{% endtab %}
+{% endtabs %}
+
+#### Dagannoth Kings
+
+{% tabs %}
+{% tab title="Dagannoth Rex" %}
+**Requirements**  
+43 Prayer  
+****Full Guthan's  
+Bandos Chestplate OR Torag's Platebody  
+Bandos Tassets OR Torag's Platelegs
+
+**Boosts**  
+3% for Iban's Staff OR 5% for Harmonised Nightmare Staff  
+5% for Occult Necklace
+{% endtab %}
+
+{% tab title="Dagannoth Prime" %}
+**Requirements**  
+43 Prayer  
+****Full Guthan's  
+Armadyl Chestplate OR Karil's Leathertop  
+Armadyl Chainskirt OR Karil's Leatherskirt
+
+**Boosts**  
+2% for Armadyl Chestplate  
+2% for Armadyl Chainskirt  
+6% for Twisted Bow
+{% endtab %}
+
+{% tab title="Dagannoth Supreme" %}
+**Requirements**  
+43 Prayer  
+****Full Guthan's  
+Bandos Chestplate OR Torag's Platebody  
+Bandos Tassets OR Torag's Platelegs
+
+**Boosts**  
+2% for Bandos Chestplate  
+2% for Bandos Tassets  
+4% for Saradomin Godsword OR 6% for Dragon Claws
+{% endtab %}
+{% endtabs %}
+
+#### Wilderness Bosses
+
+{% tabs %}
+{% tab title="Callisto" %}
+**Requirements**  
+Full Verac's  
+  
+**Boosts**  
+3% for Berserker Ring OR 5% for Berserker Ring \(i\)  
+3% for Barrows Gloves  
+25% for Viggora's Chainmace
+{% endtab %}
+
+{% tab title="Vet\'ion" %}
+**Requirements**  
+Full Verac's  
+  
+**Boosts**  
+3% for Dragon Warhammer  
+25% for Viggora's Chainmace
+{% endtab %}
+
+{% tab title="Venenatis" %}
+**Requirements**  
+Full Verac's  
+  
+**Boosts**  
+3% for Barrows Gloves  
+25% for Craw's Bow
+{% endtab %}
+
+{% tab title="Chaos Elemental" %}
+**Requirements**  
+Black D'hide Body OR Karil's Leathertop  
+Black D'hide Chaps OR Karil's Leatherskirt  
+  
+**Boosts**  
+3% for Barrows Gloves  
+3% for Archers Ring OR 5% for Archers Ring \(i\)  
+25% for Craw's Bow
+{% endtab %}
+{% endtabs %}
+
+#### Wilderness Demi-bosses
+
+{% tabs %}
+{% tab title="Scorpia" %}
+**Requirements**  
+None  
+  
+**Boosts**  
+10% for Occult Necklace  
+10% for Harmonised Nightmare Staff
+{% endtab %}
+
+{% tab title="Chaos Fanatic" %}
+**Requrements**  
+None  
+  
+**Boosts**  
+3% for Karil's Leathertop  
+3% for Karil's Leatherskirt  
+25% for Craw's Bow
+{% endtab %}
+
+{% tab title="Crazy Archeologist" %}
+**Requirements**  
+None  
+  
+**Boosts**  
+10% for Occult Necklace
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Nightmare" %}
+**Requirements**  
+Food & Melee gear.
+
+**Boosts**  
+See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) for boosts.
+{% endtab %}
+
+{% tab title="Vorkath" %}
+**Requirements**
+
+**Boosts**
+{% endtab %}
+
+{% tab title="KQ" %}
+**Requirements**
+
+**Boosts**
+{% endtab %}
+
+{% tab title="Sarachnis" %}
+**Requirements**
+
+**Boosts**
+{% endtab %}
+
+{% tab title="Shamans" %}
+**Requirements**  
+30 quest points  
+Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic blowpipe \(empty\)
+
+**Boosts**  
+3% for Ring of the gods, \(8% for Armadyl crossbow OR 10% for Toxic blowpipe \(empty\) OR 15% for Toxic blowpipe\)
+{% endtab %}
+
+{% tab title="Barrows" %}
+**Requirements**
+
+**Boosts**
+{% endtab %}
+
+{% tab title="Skotizo" %}
+**Requirements**
+
+**Boosts**
+{% endtab %}
+
+{% tab title="King Black Dragon" %}
+Requirements  
+Anti-Dragon Shield  
+Armadyl Crossbow OR Rune Crossbow OR Twisted Bow OR Dragon Hunter Crossbow  
+Black D'hide Body OR Karil's Leathertop  
+Black D'hide Chaps OR Karil's Leatherskirt  
+  
+Boosts  
+6% for Armadyl Crossbow OR 10% for Twisted Bow  
+15% for Dragon Hunter Lance \(when training melee\)  
+15% for Dragon Hunter Crossbow \(when training range\)
+{% endtab %}
+{% endtabs %}
+
+#### Slayer bosses
+
+{% tabs %}
+{% tab title="Abyssal Sire" %}
+**Requirements**  
+85 Slayer
+
+**Boosts**  
+10% for Arclight  
+5% for Bandos godsword OR 10% for Dragon warhammer  
+10% for Rejuvenation pool \(or higher\)
+{% endtab %}
+
+{% tab title="Grotesque Guardians" %}
+**Requirements**  
+75 Slayer  
+Brittle key
+
+**Boosts**  
+3% for Armadyl crossbow OR 5% for Toxic blowpipe  
+6% for Saradomin godsword OR 10% for Dragon claws  
+10% for Scythe of vitur OR 10% for Scythe of vitur \(uncharged\)
+
+Charged blowpipe and Scythe of vitur are currently unobtainable on OSB.
+{% endtab %}
+
+{% tab title="Kraken" %}
+**Requirements**  
+87 Slayer  
+Trident of the seas OR Trident of the seas \(full\) OR Uncharged trident OR Uncharged toxic trident OR Trident of the swamp OR Sanguinesti staff OR Harmonised nightmare staff
+
+**Boosts**  
+8% for Trident of the seas \(full\) OR 5% for Trident of the seas OR 5% for Uncharged trident OR 10% for Trident of the swamp OR 10% for Uncharged toxic trident OR 12% for Sanguinesti staff OR 15% for Harmonised nightmare staff
+
+Staves cannot currently be manually charged and Sanguinesti staff is currently unobtainable.
+{% endtab %}
+
+{% tab title="Cerberus " %}
+**Requirements**  
+91 Slayer  
+Torag's platebody OR Dharok's platebody OR Bandos chestplate  
+Torag's platelegs OR Dharok's platelegs OR Bandos tassets  
+Zamorakian spear OR Zamorakian hasta
+
+**Boosts**  
+10% for Spectral spirit shield  
+5% for Bandos chestplate OR 8% for Inquisitor's hauberk  
+5% for Bandos tassets OR 8% for Inquisitor's plateskirt  
+8% for Arclight OR 10% for Abyssal whip OR 11% for Abyssal tentacle OR 13% for Abyssal bludgeon OR 15% for Inquisitor's mace
+{% endtab %}
+
+{% tab title="Thermy" %}
+**Requirements**  
+93 Slayer
+
+**Boosts**  
+3% for Dragon dagger OR 8% for Dragon claws  
+5% for Trident of the seas OR 5% for Uncharged trident OR 6% for Trident of the swamp OR 6% for Uncharged toxic trident OR 8% for Harmonised nightmare staff  
+5% for Occult necklace  
+2% for Ancestral robe bottom  
+3% for Ancestral robe top
+{% endtab %}
+
+{% tab title="Alchemical Hydra" %}
+**Requirements**  
+95 Slayer  
+1 Antidote++ \(4\) per 6 kills \(approx.\)
+
+**Boosts**  
+10% for Twisted bow  
+3% for Barrows gloves OR 6% for Ferocious gloves  
+8% for Saradomin godsword OR 10% for Dragon claws  
+15% for Dragon hunter crossbow OR 15% for Dragon hunter lance
+
+_Must be training range/melee for DHCB/DHL boost._
+{% endtab %}
+{% endtabs %}
+
+\(Please drop a message in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
 
 <table>
   <thead>
@@ -542,6 +864,10 @@
         <p>
           <img src="../.gitbook/assets/130px-saradomin_godsword_detail.png" alt/>OR
           <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>
+          <br />
+          <img src="../.gitbook/assets/130px-dragon_hunter_lance_detail.png" alt/>OR
+          <img src="../.gitbook/assets/171px-dragon_hunter_crossbow_detail.png"
+          alt/>
         </p>
       </td>
       <td style="text-align:center">
@@ -608,17 +934,7 @@
   </tbody>
 </table>
 
-\(Please @eggaroonie\#7125 in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
-
-### Global Boosts
-
-![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: Reduces food usage by 17.6% when equipped in the gear setup being used.
-
-![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
-
-Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
-
-
+Original boost table for reference
 
 ![](../.gitbook/assets/image%20%282%29.png)
 

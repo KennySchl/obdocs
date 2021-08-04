@@ -10,6 +10,12 @@
 ## Bosses
 
 * [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [Chambers of Xeric \(Raids\)](bosses/cox-raids/README.md)
+  * [Gear Setups](bosses/cox-raids/cox-gear-setups.md)
+  * [Challenge Mode](bosses/cox-raids/challenge-mode.md)
+* [The Nightmare](bosses/nightmare-of-ashihama.md)
+* [Fight Caves](bosses/fight-caves.md)
+* [Giant mole](bosses/giant-mole.md)
 
 ## Skills
 
@@ -17,6 +23,7 @@
   * [Misc Info & FAQ](skills/slayer/slayer-misc.md)
   * [Slayer Boosts](skills/slayer/slayer-boosts.md)
 * [Fishing](skills/fishing/README.md)
+  * [Aerial Fishing](skills/fishing/aerial-fishing.md)
   * [Fishing Training](skills/fishing/fishing-training.md)
 * [Magic \(Non-combat\)](skills/magic.md)
 * [Hunter](skills/hunter/README.md)
@@ -33,7 +40,8 @@
 * [Fletching](skills/fletching.md)
 * [Prayer](skills/prayer.md)
 * [Crafting](skills/crafting.md)
-* [Cooking](skills/cooking.md)
+* [Cooking](skills/cooking/README.md)
+  * [Cooking Training](skills/cooking/cooking-training.md)
 * [Runecrafting](skills/runecrafting/README.md)
   * [Dark Altar](skills/runecrafting/dark-altar.md)
 * [Firemaking](skills/firemaking/README.md)
@@ -51,23 +59,23 @@
 ## Minigames
 
 * [Big Chompy Bird Hunting](minigames/big-chompy-bird-hunting.md)
+* [Barbarian Assault](minigames/barbarian-assault.md)
 * [Blast Furnace](minigames/blast-furnace.md)
-* [Warriors Guild](minigames/warriors-guild.md)
-* [Fight Caves](minigames/fight-caves.md)
-* [Hallowed Sepulchre](minigames/hallowed-sepulchre.md)
 * [Brimhaven Agility Arena](minigames/brimhaven-agility-arena.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
-* [Barbarian Assault](minigames/barbarian-assault.md)
+* [Hallowed Sepulchre](minigames/hallowed-sepulchre.md)
 * [Mahogany Homes](minigames/mahogany-homes.md)
-* [Tithe Farm](minigames/tithe-farm.md)
 * [Pyramid Plunder](minigames/pyramid-plunder.md)
+* [Soul Wars](minigames/soul-wars.md)
+* [Temple Trekking](minigames/temple-trekking.md)
+* [Tempoross](minigames/tempoross.md)
+* [Tithe Farm](minigames/tithe-farm.md)
+* [Warriors Guild](minigames/warriors-guild.md)
 * [Wintertodt](minigames/wintertodt.md)
-* [Chambers of Xeric \(Raids\)](minigames/cox-raids/README.md)
-  * [Challenge Mode](minigames/cox-raids/challenge-mode.md)
 
 ---
 
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
-* [Temple Trekking \(UNRELEASED\)](temple-trekking-unreleased.md)
+* [Content to be added](content-to-be-added.md)
 

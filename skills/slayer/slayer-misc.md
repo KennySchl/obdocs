@@ -6,17 +6,17 @@ description: For all the random stuff people keep asking
 
 ### FAQ
 
+**Q: How do I use an unsired / Chewed bones?**  
+A: `+offer unsired` / `+offer chewed bones`
+
 **Q: What unlocks should I prioritise?**  
 A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****
 
 **Q: How do I unlock/create a slayer helm?**  
-A: `+sls unlock slayer helmet` followed by `+create slayer helm` or `+create slayer helm (i)`. This isn't recommended as a black mask can be used anywhere.
-
-**Q: Why are my food stats strange? 0% less food because of offensive stats?**  
-A: Currently bugged.
+A: `+sls unlock slayer helmet` followed by `+create slayer helmet` or `+create slayer helmet (i)`. This isn't recommended as a black mask can be used anywhere.
 
 **Q: Which slayer master should I use?**  
-A: Depends on your goal; Konar for CL or Duradel for XP/bossing.
+A: Depends on your goal; Konar for CL/XP or Duradel for bossing. Konar is better XP due to being able to complete tasks in any of Konar's assignable locations rather than a specific location \(the way it works in OSRS\).
 
 **Q: How do I imbue my slayer helm/black mask?**  
 A: `+sw imbue black mask` you can get soul wars points with the `+sw` command.
@@ -38,19 +38,33 @@ A: `+buy mind shield`
 
 ### Best gear for slayer
 
-This can vary slightly depending on your task but in general this is the best gear.  
-**Melee:** Yes, bulwark is better than ely.
+Individual gear bonuses \(e.g. ranged attack, slash defence, etc.\) cap at 95% of their maximum in game value. These values can be found on the [OSRS Wiki](https://oldschool.runescape.wiki/w/Armour/Highest_bonuses). Due to attack values generally having easier to reach max values, this means it is best to prioritize reaching this 95% threshold, and then focus on maximizing defence afterwards.
 
-![An imbued warrior ring is slightly better](../../.gitbook/assets/image%20%289%29.png)
+#### Melee
 
-**Range:** Note that kodai wand ****will still provide infinite water runes when equipped in your range setup.
+![](../../.gitbook/assets/bismeleeslayer.png)
 
-![Black/God/3rd age vamb&apos;s would be better than bgloves](../../.gitbook/assets/image%20%288%29.png)
+Currently, only your **slash attack** is taken into account. The 95% threshold for slash attack is 172.9.
+
+#### Range
+
+![](../../.gitbook/assets/bisrangeslayer.png)
+
+The 95% threshold for ranged attack is 230.85.
+
+#### Mage
+
+![](../../.gitbook/assets/bismageslayer.png)
+
+The 95% threshold for magic attack is 168.15.
+
+It is also reccomended to equip a Black Mask \(i\) / Slayer Helmet \(i\) and a Saradomin Godsword in your Misc. setup for Jad tasks, as well as a staff of water \(or any other staff that gives water runes\) in your skilling setup. \(if you don't have a Kodai\)
 
 It's recommended you create a gear preset for these setups after equipping them. I.E.  
-`+gearpresets new meleeslay melee`  
-`+gearpresets new rangeslay range`  
-Equip the preset with:  
+`+gearpresets new meleeslay melee  
++gearpresets new rangeslay range  
++gearpresets new mageslay mage`  
+Equip the presets with:  
 `+gearpresets equip meleeslay melee`
 
 ### Konar specific

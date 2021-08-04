@@ -6,7 +6,11 @@ description: >-
 
 # Welcome to the Old School Bot Wiki!
 
-Old School Bot is a discord bot based around Old School RuneScape. It has fun and useful commands, such as showing your account stats or simulating the loot from monsters and clues
+## Welcome to the Old School Bot Wiki!
+
+Old School Bot is a discord bot based around Old School RuneScape. It has fun and useful commands, such as showing your account stats or simulating the loot from monsters and clues.
+
+If you're looking for the BSO Wiki, you can find it [here](https://bso-wiki.oldschool.gg/).
 
 ## Minions
 
